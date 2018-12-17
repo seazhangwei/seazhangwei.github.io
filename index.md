@@ -1,4 +1,4 @@
- ![sea](C:\Users\zhangwei\Pictures\sea.PNG)
+ ![sea](pic\sea.PNG)
 
 
 

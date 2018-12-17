@@ -1,4 +1,4 @@
- ![sea](pic\sea.PNG)
+ ![sea](pic/sea.PNG)
 
 
 

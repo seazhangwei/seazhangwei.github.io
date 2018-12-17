@@ -4,7 +4,7 @@
 
 ----
 
-![logo-garena.dc8ec5af](C:\Users\zhangwei\Pictures\logo-garena.dc8ec5af.png)![logo-shopee.17866518](C:\Users\zhangwei\Pictures\logo-shopee.17866518.png)![ochaa](C:\Users\zhangwei\Downloads\ochaa.jpg)![foody (1)](C:\Users\zhangwei\Downloads\foody (1).jpg)![logo-airpay.3f214252](C:\Users\zhangwei\Pictures\logo-airpay.3f214252.png)
+![logo-garena.dc8ec5af](pic/logo-garena.dc8ec5af.png)![logo-shopee.17866518](pic/logo-shopee.17866518.png)![ochaa](pic/ochaa.jpg)![foody (1)](pic/foody (1).jpg)![logo-airpay.3f214252](pic/logo-airpay.3f214252.png)
 
 ----
 <span id="jump"> </span>

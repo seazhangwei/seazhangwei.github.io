@@ -1,4 +1,4 @@
- ![sea](pic/sea-logo.PNG)
+ ![sea](pic/sea-logo.png)
 
 
 

@@ -44,7 +44,7 @@
    - [x] ![](pic\shopee.png)[Shopee](https://drive.google.com/drive/folders/12ZIXB4_-15Qt5usSfxHMDUugNNEXcH-g)     
    - [ ] ![ocha](pic\ocha.png)[Ocha](https://drive.google.com/drive/folders/1qZN4o6GjPmIYaAftSxFIz0vPAJEMb44U)         
    - [ ] ![](pic\foody.png)[Foody](https://drive.google.com/drive/folders/1BEZ0GJbF6S_4UqC5jqF55bzIO20e6hwg)        
-   - [ ] ![sea](pic\sea.png) [Sea](https://drive.google.com/drive/folders/13LlFJwbYay5ackTnp5yVZZOymHrrpAEa)            
+   - [ ] ![sea](pic\sea.png)[Sea](https://drive.google.com/drive/folders/13LlFJwbYay5ackTnp5yVZZOymHrrpAEa)            
       - [ ] SeaTalk
    - [x] ![](pic\garena.png)[Garena](https://drive.google.com/drive/folders/1rPJysKrwwet5xXzOrFWzo0ceg6i3zk_Q)     
       - [ ] AK47

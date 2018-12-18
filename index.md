@@ -1,10 +1,10 @@
- ![sea](pic/sea.PNG)
+ ![sea](pic/sea-logo.PNG)
 
 
 
 ----
 
-![logo-garena.dc8ec5af](pic/logo-garena.dc8ec5af.png)![logo-shopee.17866518](pic/logo-shopee.17866518.png)![ochaa](pic/ochaa.jpg)![foody (1)](pic/foody (1).jpg)![logo-airpay.3f214252](pic/logo-airpay.3f214252.png)
+![garena](pic/garena-logo.png)![shopee](pic/shopee-logo.png)![ocha](pic/ocha-logo.png)![foody](pic/foody-logo.png)![airpay](pic/airpay-logo.png)
 
 ----
 <span id="jump"> </span>
@@ -37,16 +37,16 @@
 ## 【2】Global inter-connect
 
 ###  Business Topology
-- [ ] ![](C:\Users\zhangwei\Downloads\拓扑 (3).png)[GVPN](https://drive.google.com/drive/folders/1AdgFtT9IfbJFupbzDCG_J_ZSSHK2lTCQ) 
-- [ ] ![](C:\Users\zhangwei\Downloads\拓扑 (3).png)[MPLS](https://drive.google.com/drive/folders/1_2FkjzleXMee5UOKWNp25agnQgpXEsVb)
+- [ ] ![](pic\topology.png)[GVPN](https://drive.google.com/drive/folders/1AdgFtT9IfbJFupbzDCG_J_ZSSHK2lTCQ) 
+- [ ] ![](pic\topology.png)[MPLS](https://drive.google.com/drive/folders/1_2FkjzleXMee5UOKWNp25agnQgpXEsVb)
 ### Product Topology
 
-   - [x] ![](C:\Users\zhangwei\Downloads\logo-shopee.17866518.png)[Shopee](https://drive.google.com/drive/folders/12ZIXB4_-15Qt5usSfxHMDUugNNEXcH-g)     
-   - [ ] ![1545034203446](C:\Users\zhangwei\AppData\Roaming\Typora\typora-user-images\1545034203446.png)[Ocha](https://drive.google.com/drive/folders/1qZN4o6GjPmIYaAftSxFIz0vPAJEMb44U)         
-   - [ ] ![](C:\Users\zhangwei\Downloads\foody.jpg)[Foody](https://drive.google.com/drive/folders/1BEZ0GJbF6S_4UqC5jqF55bzIO20e6hwg)        
-   - [ ] ![](C:\Users\zhangwei\Pictures\tag_sea.7a65c084.png)[Sea](https://drive.google.com/drive/folders/13LlFJwbYay5ackTnp5yVZZOymHrrpAEa)            
+   - [x] ![](pic\shopee.png)[Shopee](https://drive.google.com/drive/folders/12ZIXB4_-15Qt5usSfxHMDUugNNEXcH-g)     
+   - [ ] ![ocha](pic\ocha.png)[Ocha](https://drive.google.com/drive/folders/1qZN4o6GjPmIYaAftSxFIz0vPAJEMb44U)         
+   - [ ] ![](pic\foody.png)[Foody](https://drive.google.com/drive/folders/1BEZ0GJbF6S_4UqC5jqF55bzIO20e6hwg)        
+   - [ ] ![sea](pic\sea.png) [Sea](https://drive.google.com/drive/folders/13LlFJwbYay5ackTnp5yVZZOymHrrpAEa)            
       - [ ] SeaTalk
-   - [x] ![](C:\Users\zhangwei\Downloads\logo-garena.dc8ec5af.png)[Garena](https://drive.google.com/drive/folders/1rPJysKrwwet5xXzOrFWzo0ceg6i3zk_Q)     
+   - [x] ![](pic\garena.png)[Garena](https://drive.google.com/drive/folders/1rPJysKrwwet5xXzOrFWzo0ceg6i3zk_Q)     
       - [ ] AK47
       - [ ] AVA
       - [ ] BNS
@@ -73,19 +73,19 @@
 
    [目录](#jump)
 
-## 【3】![singapore](C:\Users\zhangwei\Downloads\singapore.png) SG
+## 【3】![singapore](pic\singapore.png) SG
 ### Media Hub 
    - [ ] **Topology**       
       - [ ] **Business logic**
       - [ ] **DC Core ISP**
    - [ ] **Floor Mapping**
    - [ ] **Product Topology**
-      - [x] [Shopee](www.baidu,com)    ![](C:\Users\zhangwei\Downloads\logo-shopee.17866518.png)    
-      - [ ] [Ocha](www.baidu,com)        ![](C:\Users\zhangwei\Downloads\ocha.jpg)
-      - [ ] [Foody](www.baidu,com)       ![](C:\Users\zhangwei\Downloads\foody.jpg)  
-      - [x] [Sea](www.baidu,com)           ![](C:\Users\zhangwei\Pictures\tag_sea.7a65c084.png)       
+      - [x] ![](pic\shopee.png)[Shopee](www.baidu,com)        
+      - [ ] ![](pic\ocha.png)[Ocha](www.baidu,com)       
+      - [ ] ![](pic\foody.png)[Foody](www.baidu,com)        
+      - [x] ![](pic\sea.png)[Sea](www.baidu,com)                 
          - [ ] SeaTalk
-      - [ ] [Garena](www.baidu.com)    ![](C:\Users\zhangwei\Downloads\logo-garena.dc8ec5af.png)  
+      - [ ] ![](pic\garena.png)[Garena](www.baidu.com)     
          - [ ] AK47
          - [ ] AVA
          - [ ] BNS
@@ -225,7 +225,7 @@
 [目录](#jump)
 
 
-## 【4】![malaysia](C:\Users\zhangwei\Downloads\malaysia.png)MY
+## 【4】![malaysia](pic\malaysia.png)MY
 ### 
 
    - [ ] **Topology**       
@@ -264,7 +264,7 @@
 
 [目录](#jump)
 
-## 【5】![indonesia](C:\Users\zhangwei\Downloads\indonesia.png)ID  
+## 【5】![indonesia](pic\indonesia.png)ID  
 
 ### 
 
@@ -305,7 +305,7 @@
 
 [目录](#jump)
 
-## 【6】![vietnam](C:\Users\zhangwei\Downloads\vietnam.png)VN 
+## 【6】![vietnam](pic\vietnam.png)VN 
 
 ### BD
 
@@ -382,7 +382,7 @@
 [目录](#jump)
 
 
-## 【7】![taiwan](C:\Users\zhangwei\Downloads\taiwan.png)TW 
+## 【7】![taiwan](pic\taiwan.png)TW 
 
 ### TFN
 
@@ -421,7 +421,7 @@
 
 [目录](#jump)
 
-## 【8】![thailand](C:\Users\zhangwei\Downloads\thailand.png)TH
+## 【8】![thailand](pic\thailand.png)TH
 
 
 ### PROEN
